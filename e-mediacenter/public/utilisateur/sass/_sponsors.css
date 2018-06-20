@@ -1,0 +1,15 @@
+.qt-sponsors {
+	background:#fafafa;
+	.row {
+		padding: 0 1.5rem;
+	}
+	a.qt-sponsor {
+		display: block;
+		padding: 0 2rem;
+		img {
+			display: block;
+			width: 100%;
+			height: auto;
+		}
+	}
+}
